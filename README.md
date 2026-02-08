@@ -1,8 +1,3 @@
-# VXLAN-EVPN-Fabric-Lab-Symmetric-IRB-with-Nexus 9300v-in-Vmware-Workstation
-VXLAN EVPN Fabric Lab: Symmetric IRB with Nexus 9300v in VMware Workstation
-This `README.md` is structured to be a professional, high-quality documentation for your GitHub repository. It includes the full topology, technical theories, and the specific syntax for **NX-OS 10.6(2)F**.
-
----
 
 # ## VXLAN EVPN Fabric Lab: Symmetric IRB with Nexus 9300v
 
